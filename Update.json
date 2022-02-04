@@ -2,6 +2,6 @@
  "version": "ILPM v1.29 BETA",
  "updater-update": "false",
  "update-page": "https://projectplusgame.com/download/",
- "changelog": "Music volume changes",
- "download-page-windows": "",
+ "changelog": "Changed Distant Planet to Castle Courtyard, Old Distant Planet is on the R Alt, Fixed a bug where the stage stats for Smashville were not displaying correctly on the stage select screen, Changed order of menu music in My Music, Bridge of Eldin upper blast zone reverted to 200, Corrected some stage stats that were displaying incorrectly, Added version number display on the character select screen that will match the version numbers of ILPM Github releases",
+ "download-page-windows": "https://onedrive.live.com/embed?cid=B57FC2DC9EB489C8&resid=B57FC2DC9EB489C8%21110&authkey=AJgAfMAKVV2A_P4",
  "download-page-mac": ""}
