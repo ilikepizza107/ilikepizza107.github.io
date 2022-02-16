@@ -1,7 +1,7 @@
 {"hash": "81e0a8f8a53f429b341d440ddb2d2b7802b66d52",
- "version": "ILPM v1.1.1.29 BETA",
+ "version": "ILPM v1.1.2.29 BETA",
  "updater-update": "false",
  "update-page": "https://projectplusgame.com/download/",
- "changelog": "Fixed some geometry on Pirate Ship, added per player ALC toggle, added Stagelist toggle between ILPM, PMBR, and Middle 3",
- "download-page-windows": "https://onedrive.live.com/download?cid=B57FC2DC9EB489C8&resid=B57FC2DC9EB489C8%21118&authkey=ALmDH_XSeDcNAWg",
+ "changelog": "Fixed geometry issue with left side of Pirate Ship, Fixed Olimar skins crashing the game, Removed broken skins on Peach, Condensed music folder to remove redundant tracks and lower file size, and updated the CSS Versus text",
+ "download-page-windows": "https://onedrive.live.com/download?cid=B57FC2DC9EB489C8&resid=B57FC2DC9EB489C8%21119&authkey=APYURZUS6OvwKlU",
  "download-page-mac": ""}
