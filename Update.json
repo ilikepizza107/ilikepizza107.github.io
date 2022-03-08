@@ -1,7 +1,7 @@
 {"hash": "81e0a8f8a53f429b341d440ddb2d2b7802b66d52",
- "version": "ILPM v1.1.21.29 BETA",
+ "version": "ILPM v1.1.3.29 BETA",
  "updater-update": "false",
  "update-page": "https://projectplusgame.com/download/",
- "changelog": "Fixed music defaulting to off, and lowered volume of a song on battlefield",
- "download-page-windows": "https://onedrive.live.com/download?cid=F6B7B9FAC71330DC&resid=F6B7B9FAC71330DC%212872&authkey=ABYopbglTWiK8z4",
+ "changelog": "Visual Changes: Removed ship from the background of Pirate Ship to help with lag during doubles, added Demon's Souls Marth alt. Large music Update as well",
+ "download-page-windows": "https://onedrive.live.com/download?cid=B57FC2DC9EB489C8&resid=B57FC2DC9EB489C8%21126&authkey=AD3jnATkN20fZs4",
  "download-page-mac": ""}
