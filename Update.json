@@ -1,7 +1,8 @@
 {"hash": "81e0a8f8a53f429b341d440ddb2d2b7802b66d52",
- "version": "ILPM v1.1.3.29 BETA",
+ "version": "ILPM v1.2.29 BETA",
  "updater-update": "false",
  "update-page": "https://projectplusgame.com/download/",
- "changelog": "Visual Changes: Removed ship from the background of Pirate Ship to help with lag during doubles, added Demon's Souls Marth alt. Large music Update as well",
- "download-page-windows": "https://onedrive.live.com/download?cid=B57FC2DC9EB489C8&resid=B57FC2DC9EB489C8%21127&authkey=ALNh_jgIzkbKYxE",
+ "changelog": "Menu graphics updated from purple to red, Added several new character skins, Updated stagelist to April 2022 stagelist, Music has been reshuffled between the new stages. Some has been deleted and some has been added, Added codes menu toggle for doubles stagelist (will ban the two small stages when you press Y on stage select)
+",
+ "download-page-windows": "",
  "download-page-mac": ""}
