@@ -2,7 +2,6 @@
  "version": "ILPM v1.2.29 BETA",
  "updater-update": "false",
  "update-page": "https://projectplusgame.com/download/",
- "changelog": "Menu graphics updated from purple to red, Added several new character skins, Updated stagelist to April 2022 stagelist, Music has been reshuffled between the new stages. Some has been deleted and some has been added, Added codes menu toggle for doubles stagelist (will ban the two small stages when you press Y on stage select)
-",
+ "changelog": "Menu graphics updated from purple to red, Added several new character skins, Updated stagelist to April 2022 stagelist, Music has been reshuffled between the new stages. Some has been deleted and some has been added, Added codes menu toggle for doubles stagelist (will ban the two small stages when you press Y on stage select)",
  "download-page-windows": "",
  "download-page-mac": ""}
