@@ -1,7 +1,7 @@
 {"hash": "141eb81fd0e5ba161fcdb7b746f41c4bba1a5577",
- "version": "NEPM v1.2.5 BETA",
+ "version": "NEPM v1.2.6 BETA",
  "updater-update": "false",
  "update-page": "https://projectplusgame.com/download/",
- "changelog": "Fixes the blast zones on Yoshi's to be in line with IL, fixes a bug with a song on Pictochat, includes YGL's new Cowboy Kirby skin, updated CSS version number",
- "download-page-windows": "https://onedrive.live.com/download?cid=B57FC2DC9EB489C8&resid=B57FC2DC9EB489C8%21138&authkey=AH1T1elvljDZNp4",
+ "changelog": "Pause is set to Hold by default, A+B on pause rerolls song, new skins and hidden alts, rearranged and added songs, updated CSS version number",
+ "download-page-windows": "https://onedrive.live.com/download?cid=B57FC2DC9EB489C8&resid=B57FC2DC9EB489C8%21147&authkey=APct9S3QMkqQ12Y",
  "download-page-mac": ""}
