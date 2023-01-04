@@ -1,7 +1,7 @@
-{"hash": "141eb81fd0e5ba161fcdb7b746f41c4bba1a5577",
+{"hash": "1c1e6c6f56db5e9123a9d344422273577cd1287d",
  "version": "NEPM v1.2.6 BETA",
  "updater-update": "false",
  "update-page": "https://projectplusgame.com/download/",
- "changelog": "Pause is set to Hold by default, A+B on pause rerolls song, new skins and hidden alts, rearranged and added songs, updated CSS version number",
- "download-page-windows": "https://onedrive.live.com/download?cid=B57FC2DC9EB489C8&resid=B57FC2DC9EB489C8%21147&authkey=APct9S3QMkqQ12Y",
+ "changelog": "Update to P+ 2.3.2, Pause set to Hold fixed, added P+ characters to SSE, Replays will desync less often, added HDK Knux and GAGE Wolf skins, added songs, optimized music, updated CSS version number",
+ "download-page-windows": "https://onedrive.live.com/download?cid=B57FC2DC9EB489C8&resid=B57FC2DC9EB489C8%21151&authkey=AMvw1JdTnAnCql0",
  "download-page-mac": ""}
