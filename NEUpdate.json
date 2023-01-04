@@ -1,5 +1,5 @@
 {"hash": "1c1e6c6f56db5e9123a9d344422273577cd1287d",
- "version": "NEPM v1.2.6 BETA",
+ "version": "NEPM v1.3.0 BETA",
  "updater-update": "false",
  "update-page": "https://projectplusgame.com/download/",
  "changelog": "Update to P+ 2.3.2, Pause set to Hold fixed, added P+ characters to SSE, Replays will desync less often, added HDK Knux and GAGE Wolf skins, added songs, optimized music, updated CSS version number",
