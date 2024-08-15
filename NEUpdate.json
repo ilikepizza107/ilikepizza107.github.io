@@ -1,7 +1,7 @@
-{"hash": "73c9b7c6f5bccc2ed5b55c1b7291edc11d3b58aa",
- "version": "NEPM v2.2.1 BETA",
+{"hash": "d65056573ebcaba9b3d72b199e1d45cb2593c107",
+ "version": "NEPM v3.0.0 BETA",
  "updater-update": "false",
  "update-page": "https://projectplusgame.com/download/",
- "changelog": "UI Color Change Feature, new skins, new song! Hotfix for the Color Change feature",
- "download-page-windows": "https://onedrive.live.com/download?resid=B57FC2DC9EB489C8%21304&authkey=!AHS2nU34XcvN0do",
+ "changelog": "Updates the build to P+ 3.0.2!",
+ "download-page-windows": "https://github.com/ilikepizza107/ilikepizza107.github.io/releases/download/NE.3.0.0/NE.3.0.0.Update.zip",
  "download-page-mac": ""}
