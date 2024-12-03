@@ -1,7 +1,7 @@
-{"hash": "eec8c7fdfc62efd1555a9bc671cb48533fed439c",
- "version": "ILPM v3.5.7",
+{"hash": "49ac69f750e0f1c6422da114d630a2532f290db2",
+ "version": "ILPM v3.6.0 TUSSLE",
  "updater-update": "false",
  "update-page": "https://projectplusgame.com/download/",
- "changelog": "Full Bloom Build - Director's Cut + fixed replays for real this time (it was an issue in vanilla Project+, but it's fixed now)",
- "download-page-windows": "https://github.com/ilikepizza107/ilikepizza107.github.io/releases/download/IL.3.5.7/IL.3.5.7.Update.zip",
+ "changelog": "Tussleopolis Build - Director's Cut...brings the netplay build up to date with Project+ v3.0.5! New tags, songs, menus, etc!",
+ "download-page-windows": "https://github.com/ilikepizza107/ilikepizza107.github.io/releases/download/IL.3.6.0/IL.3.6.0.Update.zip",
  "download-page-mac": ""}
