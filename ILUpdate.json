@@ -1,7 +1,7 @@
-{"hash": "49ac69f750e0f1c6422da114d630a2532f290db2",
- "version": "ILPM v3.6.0 TUSSLE",
+{"hash": "f32c35c1039fa04fc398610127596f5b95c86dae",
+ "version": "ILPM v3.7.0 SUPERTPSV",
  "updater-update": "false",
  "update-page": "https://projectplusgame.com/download/",
- "changelog": "Tussleopolis Build - Director's Cut...brings the netplay build up to date with Project+ v3.0.5! New tags, songs, menus, etc!",
- "download-page-windows": "https://github.com/ilikepizza107/ilikepizza107.github.io/releases/download/IL.3.6.0/IL.3.6.0.Update.zip",
+ "changelog": "Super TPS V Build - Includes stage specific results screens, default tracklists via dpad, mode exit redirects, and more!",
+ "download-page-windows": "https://github.com/ilikepizza107/ilikepizza107.github.io/releases/download/IL.3.7.0/IL.3.7.0.Update.zip",
  "download-page-mac": ""}
